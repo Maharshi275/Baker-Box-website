@@ -17,7 +17,7 @@ const Homepage = () => {
         </div>
         <div className={styles.right}>
           <div className={styles.stat}>
-            <h1>50+</h1>
+            <h1>150+</h1>
             <p>Happy<br></br>clients</p>
 
           </div>
